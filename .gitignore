@@ -176,5 +176,7 @@ alembic/versions
 
 **/.DS_Store
 branch_structure.json
+
+public/fonts/
 temp_auto_push.bat
 temp_interactive_push.bat
